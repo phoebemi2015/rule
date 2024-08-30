@@ -1,12 +1,6 @@
 
 # 直播终端指定节点
-# SRC-IP-CIDR,192.168.100.160/32,no-resolve
-# SRC-IP-CIDR,192.168.100.219/32,no-resolve
-# SRC-IP-CIDR,192.168.100.204/32,no-resolve
+SRC-IP-CIDR,192.168.100.160/32,no-resolve
+SRC-IP-CIDR,192.168.100.219/32,no-resolve
+SRC-IP-CIDR,192.168.100.204/32,no-resolve
 
-
-SRC-IP-CIDR,192.168.100.160/32,🚀 节点选择
-SRC-IP-CIDR,192.168.100.219/32,🐸 手动切换
-SRC-IP-CIDR,192.168.100.204/32,🇺🇲 美国节点
-
-# custom_proxy_group=🎬 TK直播策略`select`[]🚀 节点选择`[]🐸 手动切换`[]🇺🇲 美国节点
