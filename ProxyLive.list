@@ -1,11 +1,4 @@
 
-# 域名后缀匹配
-DOMAIN-SUFFIX,temu.com
-DOMAIN-SUFFIX,amazon.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,temu
-DOMAIN-KEYWORD,amazon
 
 # 直播终端指定节点
 SRC-IP-CIDR,192.168.100.160/32,no-resolve
