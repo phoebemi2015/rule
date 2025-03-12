@@ -1,4 +1,6 @@
 
+DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,amazon.com
 
 # 直播终端指定节点
 SRC-IP-CIDR,192.168.100.160/32,no-resolve
